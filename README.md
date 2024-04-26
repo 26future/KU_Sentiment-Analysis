@@ -9,6 +9,7 @@ Code for HCLT 2020 paper: *[Movie Revies Sentiment Analysis Considering the Orde
 
 All code only supports running on Linux.
 
+
 # Model Structure
 
 <img src='model.png' width='1000'>
